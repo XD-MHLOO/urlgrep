@@ -8,6 +8,7 @@ Filter URLs like grep, but smarter — by matching specific URL components.
 ```bash
 go install github.com/XD-MHLOO/urlgrep@latest
 ```
+You can also download pre-compiled binaries from the [Releases page](https://github.com/XD-MHLOO/urlgrep/releases).
 ## Syntax 🔧
 ```
 urlgrep <mode>[:not] <regex>
